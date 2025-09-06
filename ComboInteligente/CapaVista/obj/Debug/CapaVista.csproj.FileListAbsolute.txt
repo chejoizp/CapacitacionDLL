@@ -1,0 +1,13 @@
+C:\Users\sergi\source\repos\ComboInteligente\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\sergi\source\repos\ComboInteligente\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\sergi\source\repos\ComboInteligente\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\sergi\source\repos\ComboInteligente\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\sergi\source\repos\ComboInteligente\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\sergi\source\repos\ComboInteligente\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\sergi\source\repos\ComboInteligente\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\sergi\source\repos\ComboInteligente\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\sergi\source\repos\ComboInteligente\CapaVista\obj\Debug\CapaVista.csproj.Up2Date
+C:\Users\sergi\source\repos\ComboInteligente\CapaVista\obj\Debug\CapaVista.Combo.resources
+C:\Users\sergi\source\repos\ComboInteligente\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\sergi\source\repos\ComboInteligente\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\sergi\source\repos\ComboInteligente\CapaVista\bin\Debug\CapaModelo.pdb
